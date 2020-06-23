@@ -1,0 +1,5 @@
+version: 1.2
+workflows:
+  - name: BAMStats
+    subclass: CWL
+    primaryDescriptorPath: /Dockstore.cwl
